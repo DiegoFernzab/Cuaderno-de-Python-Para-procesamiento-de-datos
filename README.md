@@ -3,8 +3,10 @@
 
 # Python — Procesamiento de Datos a Gran Escala (Notebooks)
 
-Estidante: Diego Fernando Zabala
-Profesor: Jhon Corredor Franco
+#Estudiante: Diego Fernando Zabala
+
+#Profesor: Jhon Corredor Franco
+
 Este repositorio reúne una serie de cuadernos en **Jupyter Notebook** para aprender y practicar fundamentos de **Python** aplicados a la manipulación de datos y programación básica.
 
 ## Objetivo general
